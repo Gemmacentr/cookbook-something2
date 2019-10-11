@@ -1,6 +1,6 @@
 # cookbook-South
 
-## Bucatini all'Amatriciana**
+## Bucatini all'Amatriciana
 
 ### INGREDIENTS
 
